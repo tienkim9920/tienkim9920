@@ -9,9 +9,9 @@ Currently I'm **contributing and owner** following projects:
 
 
 
-- 🔭 I’m currently working and learning on Back-end in Ho Chi Minh, Viet Nam .
+- 🔭 I’m currently working and learning on Back-End in Ho Chi Minh, Viet Nam .
 - 👯 I’m looking to collaborate on Javascript.
-- 💬 Ask me about React, Javascript .
+- 💬 Ask me about Back-End.
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/KimTien.9920/)
 - ⚡ Fun fact: " There is no elevator to success you have to take the stairs "
 

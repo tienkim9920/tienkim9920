@@ -1,7 +1,7 @@
 ### Hi there 👋 ☕
 **Glad to see you here!** :star_struck: <br> <b> I'm Tien Kim from VN 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tienkim9920&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tienkim9920&show_icons=true&theme=radical)
 
 Currently I'm **contributing and owner** following projects:
 
@@ -15,4 +15,4 @@ Currently I'm **contributing and owner** following projects:
 
 <!-- - 😄 Pronouns: ... -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienkim9920&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

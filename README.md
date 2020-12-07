@@ -14,3 +14,5 @@ Currently I'm **contributing and owner** following projects:
 - ⚡ Fun fact: " There is no elevator to success you have to take the stairs "
 
 <!-- - 😄 Pronouns: ... -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
